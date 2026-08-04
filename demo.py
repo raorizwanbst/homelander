@@ -1,8 +1,3 @@
-"""
-Config surface for secret_detector / detect-secrets / env_var_resolver.
-All values below are FAKE placeholders (EXAMPLE / documented dummy values) — they
-are here to trip secret detection, not to be used. Do not put real secrets here.
-"""
 import os
 
 # Resolved from the environment (env_var_resolver picks these up)
